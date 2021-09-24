@@ -1,3 +1,3 @@
 Rocketseat
 
-NLW Together - Origin 2021
+NLW Together - Origin 2021!
